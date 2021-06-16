@@ -1,7 +1,7 @@
 -Create git repository in github
 -git clone (Bring github repo to local computer)
 -git add filename (Add file to local repo)
--git commit -m "Meassge" (Commit files to local repo)
+-git commit -m "Message" (Commit files to local repo)
 -git push (Push the changed files to github repo)
 
 -git pull (If chnages have made in github repo, if we need to pull those files to local repo)
